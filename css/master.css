@@ -44,6 +44,45 @@ body {
     margin-left: 100px;
 }
 
+/*Шапка Детали продукта*/
+.header-product-deails {
+    background-color: #ffffff;
+    height: 120px;
+    width: 100%;
+}
+
+.header-product-deails-menu {
+    background-color: #f4f4f4;
+    height: 70px;
+    list-style-type: none;
+    padding-left: 340px;
+}
+
+.header-product-deails-menu li {
+    list-style-type: none;
+}
+
+.header-product-deails-menu a {
+    padding-top: 23px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-decoration: none;
+    display: block;
+    float: left;
+    color: #6c6c6c;
+    font-size: 17.99px;
+    font-weight: 700;
+    text-align: center;
+    transform: scaleY(1.0006);
+    height: 120px;
+
+}
+
+.header-product-deails-menu a:hover {
+    color: #212121;
+    text-decoration: none;
+}
+
 /* Меню начало */
 .menu {
     list-style-type: none;
@@ -228,6 +267,7 @@ body {
     background-image: url(../img/arrow.png);
     background-repeat: no-repeat;
     background-position: 210px 5px;
+    text-decoration: none;
 }
 
 .line1-goods {
@@ -771,6 +811,131 @@ body {
 }
 
 /*--------------------- Products конец ---------------------*/
+/*--------------------- Product deails начало ---------------------*/
+.product-deails-content-line1 {
+    clear: both;
+    width: 1200px;
+    height: 750px;
+}
+
+.product-deails-good-img p {
+    text-align: center;
+}
+
+.product-deails-good-img a:hover {
+    opacity: 0.3;
+    background-color: #ffffff;
+}
+
+.product-deails-good-detail {
+    margin-left: 56px;
+    padding-top: 50px;
+}
+
+.Fishnet-Chair {
+    color: #212121;
+    font-size: 35.98px;
+    font-weight: 700;
+    text-align: center;
+    transform: scaleY(1.0005);
+}
+
+.Hot-Deal {
+    color: #e53935;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    transform: scaleY(1.0005);
+}
+
+.price {
+    margin-top: 36px;
+    color: #212121;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 48px;
+    text-align: center;
+}
+
+.price b {
+    color: #212121;
+    font-size: 72px;
+    font-weight: 300;
+    line-height: 48px;
+    text-align: center;
+    transform: scaleY(1.0005);
+}
+
+.product-deails-good-detail a {
+    display: block;
+    color: #ffffff;
+    font-size: 21.99px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 2.5px;
+    background-color: #f44336;
+    box-shadow: 0px 2px 4.85px 0.15px rgba(33, 33, 33, 0.35);
+    width: 510px;
+    height: 71px;
+    border-radius: 70px;
+    padding-top: 25px;
+    margin-top: 30px;
+}
+
+.product-deails-good-detail a:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-image: url(../img/arrow-white.png);
+    background-repeat: no-repeat;
+    background-position: 334px 25px;
+}
+
+.product-deails-good-detail a:active {
+    box-shadow: none;
+}
+
+.product-deails-good-detail-text {
+    margin-top: 50px;
+    color: #212121;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: left;
+    transform: scaleY(1.0005);
+}
+
+
+/* product-deails Line 2*/
+.product-deails-lin2 {
+    margin-top: 120px;
+    margin-left: 107px;
+    height: 40px;
+}
+
+.product-deails-lin2 p {
+    display: block;
+    float: left;
+    color: #212121;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.product-deails-lin2-content {
+    clear: both;
+    margin-left: 85px;
+    margin-top: 63px;
+    height: 600px;
+}
+
+.product-deails-lin2-content img {
+    margin: 15px;
+}
+
+
+/*--------------------- Product deails конец ---------------------*/
 /*--------------------- Подвал начало ---------------------*/
 
 .virtual-footer {
@@ -844,9 +1009,9 @@ input[type="email"] {
     font-weight: 300;
     line-height: 22px;
     text-align: left;
-    vertical-align: middle;
+    vertical-align: top;
     padding-left: 19px;
-    height: 46px;
+    height: 43px;
 }
 
 .email-form input[type="submit"] {
