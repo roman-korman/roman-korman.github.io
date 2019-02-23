@@ -1,0 +1,43 @@
+html {
+  background: #cfcfcf;
+}
+
+.ttt {
+  margin: auto;
+  width: 300px;
+  height: 300px;
+  border-collapse: collapse;
+  background: white;
+}
+
+.ttt button {
+  display: block;
+  float: left;
+  height: 100px;
+  width: 100px;
+  background-color: #cfcfcf;
+}
+
+.ttt button:hover {
+  background-color: rgb(131, 205, 240);
+}
+
+.ttt i {
+  text-align: center;
+  display: block;
+  float: left;
+  height: 100px;
+  width: 100px;
+  font-size: 80px;
+}
+
+.ttt span {
+  padding-top: 100px;
+  vertical-align: middle;
+  text-align: center;
+  display: block;
+  height: 200px;
+  width: 300px;
+  font-size: 40px;
+  background-color: #cfcfcf;
+}
