@@ -7,7 +7,7 @@ html {
   width: 300px;
   height: 300px;
   border-collapse: collapse;
-  background: #cfcfcf;
+  background: white;
 }
 
 .ttt button {
@@ -39,5 +39,5 @@ html {
   height: 200px;
   width: 300px;
   font-size: 40px;
-  background-color: #cfcfcf;
+  background-color: white;
 }
