@@ -1,5 +1,5 @@
 html {
-  background: #cfcfcf;
+  background: white;
 }
 
 .ttt {
@@ -7,7 +7,7 @@ html {
   width: 300px;
   height: 300px;
   border-collapse: collapse;
-  background: white;
+  background: #cfcfcf;
 }
 
 .ttt button {
