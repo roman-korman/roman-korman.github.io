@@ -409,7 +409,7 @@ select {
 /* ======= Doc Styling ======= */
 .doc-wrapper {
   padding: 45px 0;
-  background: #f9f9fb;
+  background: white;
 }
 .doc-body {
   position: relative;
@@ -1131,7 +1131,7 @@ select {
 }
 .cards-section {
   padding: 60px 0;
-  background: #f9f9fb;
+  background: white;
 }
 .cards-section .title {
   margin-top: 0;
