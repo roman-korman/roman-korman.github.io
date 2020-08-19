@@ -69,6 +69,7 @@ a.btn {
   font-size: 14px;
   line-height: 1.5;
   margin: 2px;
+  border: 2px;
 }
 .btn .fa,
 a.btn .fa {
