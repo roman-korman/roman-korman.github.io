@@ -328,7 +328,8 @@ select {
   text-decoration: none;
 }
 .branding .text-highlight {
-  color: #40babd;
+  color: #F88C30;
+  /*color: #40babd;*/
 }
 .body-green .branding .text-highlight {
   color: #75c181;
@@ -354,7 +355,8 @@ select {
 }
 .branding .icon {
   font-size: 24px;
-  color: #40babd;
+  color: #F88C30;
+  /*color: #40babd;*/
 }
 .body-green .branding .icon {
   color: #75c181;
@@ -418,7 +420,8 @@ select {
   margin-bottom: 30px;
 }
 .doc-header .doc-title {
-  color: #40babd;
+  /*color: #40babd;*/
+  color: #F88C30;
   margin-top: 0;
   font-size: 36px;
 }
@@ -1099,7 +1102,8 @@ select {
 }
 .landing-page .branding .icon {
   font-size: 32px;
-  color: #40babd;
+  color: #F88C30;
+  /*color: #40babd;*/
 }
 .landing-page .tagline {
   font-weight: 600;
