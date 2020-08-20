@@ -356,8 +356,8 @@ select {
 }
 .branding .icon {
   font-size: 24px;
-  color: #F88C30;
-  /*color: #40babd;*/
+  /*color: #F88C30;*/
+  color: #40babd;
 }
 .body-green .branding .icon {
   color: #75c181;
@@ -421,8 +421,8 @@ select {
   margin-bottom: 30px;
 }
 .doc-header .doc-title {
-  /*color: #40babd;*/
-  color: #F88C30;
+  color: #40babd;
+  /*color: #F88C30;*/
   margin-top: 0;
   font-size: 36px;
 }
