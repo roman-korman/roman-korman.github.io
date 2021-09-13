@@ -1,4 +1,0 @@
-User-agent: Yandex
-Allow: /
-Sitemap: http://scanpal.ru/sitemap.xml
-Host: www.scanpal.ru
